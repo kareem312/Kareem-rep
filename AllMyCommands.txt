@@ -1,0 +1,23 @@
+1- cd Desktop/GUC/SE
+2- git init
+3- git add 1.1.txt
+4- git add 3.1.txt
+5- git add 5.1.txt
+6- git commit -m 'all files are committed'
+7- git rm 3.1.txt
+8- git commit -m 'deleted files'
+9- git log
+9- git revert 9942d99cbe7b7cc9adf0fd9db367eaee88d0d893
+10- git remote add origin https://github.com/kareem312/Kareem-rep.git
+11- git remote -v
+12- git pull --rebase origin master
+13- git push -u origin master
+14- git branch ReadMe
+15- git checkout ReadME
+16-  git add README.md
+17-  git commit -m 'Committed the README.md file in the ReadMe branch'
+18- git checkout master
+19- git merge ReadMe
+20- git add AllMyCommands.txt
+21- git commit -m 'Added the AllMyCommands.txt file to the commits'
+22- git push -u origin master
